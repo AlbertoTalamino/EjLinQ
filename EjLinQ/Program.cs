@@ -13,7 +13,7 @@ for (int i = 0; i < 100; i++)
 
 List<int> listMultipliesOf7 = new List<int>();
 
-//listMultipliesOf7 = LinqQueryForma1(listNumbers);
+listMultipliesOf7 = LinqQueryForma1(listNumbers);
 
 foreach (var item in listMultipliesOf7)
 {
